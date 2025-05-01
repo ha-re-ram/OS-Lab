@@ -1,0 +1,12 @@
+
+Process ID	Burst Time	Arrival Time	Waiting Time	Turnaround Time
+1		6		1		0		6
+2		8		1		0		8
+3		7		2		0		7
+4		3		3		0		3
+
+Average waiting time = 0.00
+Average turnaround time = 6.00
+
+
+** Process exited - Return Code: 0 **

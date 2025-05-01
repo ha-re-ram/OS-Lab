@@ -1,0 +1,12 @@
+
+Processes  Burst time  Waiting time  Turn around time
+   1		 6		 0		 6
+   2		 8		 6		 14
+   3		 7		 14		 21
+   4		 3		 21		 24
+
+Average waiting time = 10.25
+Average turn around time = 16.25
+
+
+** Process exited - Return Code: 0 **

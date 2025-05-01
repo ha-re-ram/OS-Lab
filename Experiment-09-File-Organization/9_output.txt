@@ -1,0 +1,23 @@
+Sequential File Organization:
+Record 0: Key = 0, Data = Data1
+Record 1: Key = 1, Data = Data2
+Record 2: Key = 2, Data = Data3
+Record 3: Key = 3, Data = Data4
+Record 4: Key = 4, Data = Data5
+
+Random File Organization:
+Record 0: Key = 0, Data = Data1
+Record 1: Key = 2, Data = Data3
+Record 2: Key = 4, Data = Data5
+Record 3: Key = 1, Data = Data2
+Record 4: Key = 3, Data = Data4
+
+Serial File Organization:
+Record 0: Key = 5, Data = Data1
+Record 1: Key = 6, Data = Data2
+Record 2: Key = 7, Data = Data3
+Record 3: Key = 8, Data = Data4
+Record 4: Key = 9, Data = Data5
+
+
+** Process exited - Return Code: 0 **

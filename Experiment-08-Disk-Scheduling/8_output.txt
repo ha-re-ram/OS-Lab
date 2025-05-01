@@ -1,0 +1,8 @@
+Initial head position at 53
+FCFS Total Head Movement: 640
+SSTF Total Head Movement: 236
+SCAN Total Head Movement: 236
+CSCAN Total Head Movement: 382
+
+
+** Process exited - Return Code: 0 **

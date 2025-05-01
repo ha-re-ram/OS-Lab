@@ -1,0 +1,6 @@
+Parent wrote: Hello from Shared Memory!
+Child reads: Hello from Shared Memory!
+Parent reads: Message received via pipe!
+
+
+** Process exited - Return Code: 0 **

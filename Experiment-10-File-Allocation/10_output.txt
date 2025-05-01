@@ -1,0 +1,9 @@
+Sequential Allocation for File 1:
+Disk State: 1 1 1 0 0 0 0 0 0 0 
+Indexed Allocation for File 2:
+Disk State: 1 1 1 2 2 2 0 0 0 0 
+Linked Allocation for File 3:
+Disk State: 1 1 1 2 2 2 3 3 3 0 
+
+
+** Process exited - Return Code: 0 **

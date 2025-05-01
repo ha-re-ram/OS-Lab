@@ -1,0 +1,13 @@
+
+SJF Scheduling:
+Process  Burst Time  Waiting Time  Turnaround Time
+   4	    3		  0		   3
+   1	    6		  3		   9
+   3	    7		  9		   16
+   2	    8		  16		   24
+
+Average Waiting Time: 7.00
+Average Turnaround Time: 13.00
+
+
+** Process exited - Return Code: 0 **

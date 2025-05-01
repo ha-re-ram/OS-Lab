@@ -1,0 +1,23 @@
+Producer 1 produced 95
+Consumer 2 consumed 95
+Producer 1 produced 50
+Consumer 2 consumed 50
+Producer 1 produced 28
+Consumer 2 consumed 28
+Producer 1 produced 79
+Consumer 2 consumed 79
+Producer 1 produced 76
+Consumer 2 consumed 76
+Producer 1 produced 65
+Consumer 2 consumed 65
+Producer 1 produced 66
+Consumer 2 consumed 66
+Producer 1 produced 86
+Consumer 2 consumed 86
+Producer 1 produced 11
+Consumer 2 consumed 11
+Producer 1 produced 6
+Consumer 2 consumed 6
+
+
+** Process exited - Return Code: 0 **

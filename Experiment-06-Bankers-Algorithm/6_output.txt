@@ -1,0 +1,6 @@
+System is in a safe state.
+Safe sequence is: 1 3 4 0 2 
+System is in a safe state
+
+
+** Process exited - Return Code: 0 **
